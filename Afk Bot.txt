@@ -1,0 +1,5 @@
+{
+	"ip":"UltimateLife.aternos.me",
+	"port": "15924",
+	"name": "afkbot"
+}
